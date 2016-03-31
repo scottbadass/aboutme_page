@@ -125,7 +125,7 @@ footer > p,
   margin-left: auto;
   margin-right: auto;
 
-/* comments:*/    
+   
   margin: 0 auto;
   padding: 0 2em;
 }
@@ -135,7 +135,7 @@ footer > p,
   margin-left: auto;
   margin-right: auto;
   
-  /*comments:*/  
+  
   margin: 0 auto .2em;
   
   text-align: center;
@@ -147,7 +147,7 @@ footer > p,
 /*Footer*/
 footer {
   background-color: antiquewhite;
-  /*comments:*/
+ 
   padding: 5px;
 }
 
@@ -172,7 +172,7 @@ footer > ul > li > a:visited {
 }
 
  footer > ul > li  a:hover {
-  /*comments:*/
+  
   background-color: #81AF81;
   background-size: 100%;
   border-radius: 30px;
