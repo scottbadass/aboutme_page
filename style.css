@@ -32,7 +32,7 @@ body {
     color: #222222;
     font-size: 1em;
     font-family: 'Merriweather', serif;
-    margin: 0px;
+    margin-top: 30px;
 }
 
 .container {
@@ -199,10 +199,19 @@ RESPONSIVE! */
 /*Smarthphones (portrait)------------*/
 @media only screen and (max-width: 320px) {
     /* Styles */
-    .container {
-      max-width: 120%; 
+  .container {
+    max-width: 120%; 
     }
 }
+
+/* Mobile gen responsiveneness */
+@media only screen and (max-width: 500px) {
+  .masthead {
+    padding: 3em o; }
+  .masthead-heading {
+    font-size: 3em;
+    }
+  }
 
 /*iPads (portrait and landscape)-------------*/
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
