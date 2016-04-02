@@ -299,6 +299,9 @@ RESPONSIVE! */
 
 @media only screen and (min-device-width:414px) and (max-device-width:736px) and (orientation:landscape) and (-webkit-device-pixel-ratio: 2) {
     /* Styles */
+    .container {
+      width: 
+    }
 }
 
 @media only screen and (min-device-width:414px) and (max-device-width: 736px) and (orientation:portrait) and (-webkit-device-pixel-ratio: 2) {
