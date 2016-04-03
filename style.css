@@ -2,45 +2,45 @@
 /*global styling */
 
 a {
-    text-decoration: none;
-    color: #FF5722;
+  text-decoration: none;
+  color: #FF5722;
 }
 
 a:visited {
-    color: blue;
+  color: blue;
 }
 
 a:hover {
-    color: white;
-    background-color: #81AF81;
+  color: white;
+  background-color: #81AF81;
 }
 
 .center {
-    text-align: center;
+  text-align: center;
 }
 
 ul {
-    list-style-type: none;
-    text-align: center;
+  list-style-type: none;
+  text-align: center;
 }
 
 li {
-    display: inline-block;  
+  display: inline-block;  
 }
 
 body {
-    color: #222222;
-    font-size: 1em;
-    font-family: 'Merriweather', serif;
-    margin-top: 30px;
+  color: #222222;
+  font-size: 1em;
+  font-family: 'Merriweather', serif;
+  margin-top: 30px;
 }
 
 .container {
-    margin-right: auto;
-    margin-left: auto;
-    padding-left: 10px;
-    padding-right: 10px;
-    width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 100%;
 }
 
 
@@ -48,15 +48,15 @@ body {
 /*Masthead*/
 
 .masthead {
-    background-image: url("https://images.unsplash.com/photo-1437652010333-fbf2cd02a4f8?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=9de65fa9bbcbd2401f3cb9cc3c8cf582");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    border-top: 1em solid #FFCF33;
-    margin-top: -02em;
-    padding: 6em 0;
-    position: relative;
-    display: block;
+  background-image: url("https://images.unsplash.com/photo-1437652010333-fbf2cd02a4f8?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=9de65fa9bbcbd2401f3cb9cc3c8cf582");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-top: 1em solid #FFCF33;
+  margin-top: -02em;
+  padding: 6em 0;
+  position: relative;
+  display: block;
 }
 
 /*############################################################################*/
@@ -64,31 +64,31 @@ body {
 
 .masthead-intro {
     /*Layout Declarations */
-    margin-bottom: 0.1em;
-    padding: 0.1em;
-    color: black;
-    font-size: 2em;
-    font-family: Gentium Book Basic, Georgia, serif;
-    text-shadow: #301B06 3px 1px 3px;  /*added for readability*/
-    letter-spacing: 0.05em; /*added for readability*/
+  margin-bottom: 0.1em;
+  padding: 0.1em;
+  color: black;
+  font-size: 2em;
+  font-family: Gentium Book Basic, Georgia, serif;
+  text-shadow: #301B06 3px 1px 3px;  /*added for readability*/
+  letter-spacing: 0.05em; /*added for readability*/
 }
 
 /*############################################################################*/
 /*Masthead-heading*/
 
 .masthead-heading {
-    /*Layout Declarations */
-    margin-top: -0.2em;
+  /*Layout Declarations */
+  margin-top: -0.2em;
 
-    /* Typography Declarations */
-    font-size: 4em;
-    font-weight: bold;
-    letter-spacing: -0.02em;
-    letter-spacing: .03em;  /* added for readability */
-    font-family: 'Merriweather' serif;
-    text-transform: uppercase;
-    color: antiquewhite;
-    padding-bottom: 2.3em;
+  /* Typography Declarations */
+  font-size: 4em;
+  font-weight: bold;
+  letter-spacing: -0.02em;
+  letter-spacing: .03em;  /* added for readability */
+  font-family: 'Merriweather' serif;
+  text-transform: uppercase;
+  color: antiquewhite;
+  padding-bottom: 2.3em;
 }
 
 /*############################################################################*/
@@ -102,10 +102,10 @@ section > h3 {
 .location > p,
 .future-hobby > p,
 .aboutme > p {
-    /*Typography Declarations */
-    font-weight: 300;
-    line-height: 1.8em;
-    color: #654328; 
+  /*Typography Declarations */
+  font-weight: 300;
+  line-height: 1.8em;
+  color: #654328; 
 }
 
 .masthead-intro,
@@ -113,7 +113,7 @@ section > h3 {
 .copyright,
 footer > p,
 .masthead-heading {
-    text-align: center;
+  text-align: center;
 }
 
 .intro-section,
